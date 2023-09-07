@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'calibiriLight';
+    src: url('../fonts/calibri_light-webfont.woff2') format('woff2'),
+         url('../fonts/calibri_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'calibiriBold';
+    src: url('../fonts/calibri_bold-webfont.woff2') format('woff2'),
+         url('../fonts/calibri_bold-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'calibiriRegular';
+    src: url('../fonts/calibri_regular-webfont.woff2') format('woff2'),
+         url('../fonts/calibri_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tahomaRegular';
+    src: url('../fonts/tahoma_regular_font-webfont.woff2') format('woff2'),
+         url('../fonts/tahoma_regular_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tahomaBold';
+    src: url('../fonts/tahomabd-webfont.woff2') format('woff2'),
+         url('../fonts/tahomabd-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'timesBold';
+    src: url('../fonts/times_new_roman_bold-webfont.woff2') format('woff2'),
+         url('../fonts/times_new_roman_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'timesRegular';
+    src: url('../fonts/times_new_roman-webfont.woff2') format('woff2'),
+         url('../fonts/times_new_roman-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'arialRegular';
+    src: url('../fonts/ARIAL.woff') format('woff2'),
+         url('../fonts/ARIAL.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sitikaRegular';
+    src: url('../fonts/sitkavf-webfont.woff2') format('woff2'),
+         url('../fonts/sitkavf-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sitikaItalic';
+    src: url('../fonts/sitkavf-italic-webfont.woff2') format('woff2'),
+         url('../fonts/sitkavf-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'stencilRegular';
+    src: url('../fonts/stencil_regular-webfont.woff2') format('woff2'),
+         url('../fonts/stencil_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
